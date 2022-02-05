@@ -37,6 +37,8 @@ line1number @swap line2number: swap line1 content with line2.
 *only py,js,rb,php*
 
 
+@quit: interrupt the program
+
 
 
 
